@@ -15,13 +15,15 @@
 
 #### Running with Maven and Java (Maven and Java 11 installation required)
 
-- Clone the project $ https://github.com/MattMendez/UserRegistration-Nisum.git
+- Clone the project $ [https://github.com/MattMendez/UserRegistration-Nisum.git](https://github.com/MattMendez/modak-rate-limiter-java/edit/main/README.md)
 - Go to the project directory
-  $ cd nisum/
+  $ cd folder/
 - Generate the project jar
 
 $ mvn clean && mvn install -DskipTests -Dspring.profiles.active=local
 - Run the project with Maven $ mvn spring-boot:run
+
+Or just run it on IntelliJ
 
 ## Documentation
 For testing and documentation, I recommend using [Swagger](https://swagger.io). Once the project is running, you can access it at the following link:
