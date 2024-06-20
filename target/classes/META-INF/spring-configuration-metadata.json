@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "notifications-limits-maps",
+      "type": "com.modakratelimitedchallenge.configurations.NotificationsLimitConfiguration",
+      "sourceType": "com.modakratelimitedchallenge.configurations.NotificationsLimitConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "notifications-limits-maps.notification-limit-map",
+      "type": "java.util.Map<java.lang.String,com.modakratelimitedchallenge.configurations.NotificationsLimitConfiguration$Limits>",
+      "sourceType": "com.modakratelimitedchallenge.configurations.NotificationsLimitConfiguration"
+    }
+  ],
+  "hints": []
+}
